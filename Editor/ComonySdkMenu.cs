@@ -7,7 +7,7 @@ public class ComonySdkMenu : MonoBehaviour
 {
     static ComonySdkMenu()
     {
-        Debug.Log("Version Check");
+        Debug.Log("Version Check!");
         Client.Add("https://github.com/comony-spaces/comonysdk.git");
     }
 
