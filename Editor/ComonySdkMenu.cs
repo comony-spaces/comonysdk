@@ -1,4 +1,5 @@
 using UnityEditor;
+using UnityEditor.PackageManager;
 using UnityEngine;
 
 [InitializeOnLoad]
@@ -7,7 +8,7 @@ public class ComonySdkMenu : MonoBehaviour
     static ComonySdkMenu()
     {
         Debug.Log("Version Check");
-        PackageManager.Client.Add("https://github.com/comony-spaces/comonysdk.git");
+        Client.Add("https://github.com/comony-spaces/comonysdk.git");
     }
 
     [MenuItem("ComonySDK/Upload Window")]
