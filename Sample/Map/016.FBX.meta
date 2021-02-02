@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 3a18bbb55f570a145a043441386d1d1f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: combined
+    100004: UCX_combined
+    400000: //RootNode
+    400002: combined
+    400004: UCX_combined
+    2100000: bathroom1objmtl
+    2100002: Entranceobjmtl
+    2100004: LDK1objmtl
+    2100006: bedroomobjmtl
+    2100008: bathroomobjmtl
+    2100010: Kitchenobjmtl
+    2100012: LDKobjmtl
+    2100014: masterbedroomobjmtl
+    2100016: dressingroomobjmtl
+    2100018: Japaneseroomobjmtl
+    2100020: No Name
+    2300000: combined
+    2300002: UCX_combined
+    3300000: combined
+    3300002: UCX_combined
+    4300000: combined
+    4300002: UCX_combined
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Entranceobjmtl
+    second: {fileID: 2100000, guid: 62bb8af3649c02744ba0f9df2dfe19c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Japaneseroomobjmtl
+    second: {fileID: 2100000, guid: 48428220d54d7df4e81a809a6ab0b46b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchenobjmtl
+    second: {fileID: 2100000, guid: c8bafac6003b7dc4c87d9cdd39f5214d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LDK1objmtl
+    second: {fileID: 2100000, guid: 8ee7b9525712ddf429e169037bad1ed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LDKobjmtl
+    second: {fileID: 2100000, guid: 669bb305f44910540950fe4fb54e0e63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 814c50a2a84255b4ab389593a0f1ee30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bathroom1objmtl
+    second: {fileID: 2100000, guid: d6664014fc3299e45865964a4cb8668c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bathroomobjmtl
+    second: {fileID: 2100000, guid: da7ae85d1941128459c5991518021bd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bedroomobjmtl
+    second: {fileID: 2100000, guid: 8db0568c52b1dba4b8f813352ba24a2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dressingroomobjmtl
+    second: {fileID: 2100000, guid: ce327fb6512c2774984cdb258519b19f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: masterbedroomobjmtl
+    second: {fileID: 2100000, guid: 09be2ec589e2149448acc3031bf42f0a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
